@@ -33,7 +33,7 @@ export const Header: React.FunctionComponent<{}> = (): JSX.Element => {
   return (
     <div className={classes.root} >
       <Grid container spacing={2} direction="row" alignItems="center">
-        <Grid item lg={7} xs={12}>
+        <Grid item lg={8} md={8} xs={12}>
           <Box display='flex' flexDirection='row' alignItems='center'>
 
             <img src={logo} alt='brand-logo' />
@@ -58,7 +58,7 @@ export const Header: React.FunctionComponent<{}> = (): JSX.Element => {
           </Box>
 
         </Grid>
-        <Grid item lg={5} xs={12}>
+        <Grid item lg={4} md={4} xs={12}>
           <Box display='flex' flexDirection='row' justifyContent='flex-end'>
 
             <Typography variant='h6'>

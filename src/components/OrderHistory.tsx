@@ -22,7 +22,6 @@ import ErrorOutlineIcon from '@material-ui/icons/ErrorOutline';
 import LocalShippingIcon from '@material-ui/icons/LocalShippingOutlined';
 import AddIcon from '@material-ui/icons/Add';
 import TablePaginationActions from '@material-ui/core/TablePagination/TablePaginationActions';
-// import { Pagination } from '@material-ui/lab';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 import RemoveIcon from '@material-ui/icons/Remove';
 
@@ -35,7 +34,7 @@ const useStyles = makeStyles((theme) => ({
     fontWeight: 500
   },
   table: {
-    minWidth: 650
+    minWidth: 700
   },
   tabelCell: {
 
@@ -51,8 +50,7 @@ const useStyles = makeStyles((theme) => ({
   },
   specList: {
     paddingLeft: 0,
-    flexFlow: 'wrap column',
-    maxHeight: '100px'
+    flexFlow: 'wrap column'
   },
   chip: {
     backgroundColor: '#F7F7F7',
@@ -62,6 +60,7 @@ const useStyles = makeStyles((theme) => ({
     color: theme.palette.secondary.main
   },
   downArrowStyle: {
+    width: 20,
     padding: 0,
     color: theme.palette.common.black
   }
@@ -209,14 +208,33 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
       <Box my={4} />
 
       <TableContainer>
-        <Table className={classes.table} >
+        <Table className={classes.table} style={{ width: "auto", tableLayout: "auto" }}>
           <TableHead>
             <TableRow>
-              <TableCell >Order Date <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>  </TableCell>
-              <TableCell >Order number <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton></TableCell>
-              <TableCell >Payment <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton></TableCell>
-              <TableCell ><DropDown options={[{ name: 'Order source', value: -1 }]} color='inherit' fullWidth={false} /></TableCell>
-              <TableCell >Total (USD) <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton></TableCell>
+              <TableCell >
+                <Box display='block' width='max-content'>
+                  Order Date <IconButton className={classes.downArrowStyle} ><ArrowDropDownIcon /></IconButton>
+                </Box>
+              </TableCell>
+              <TableCell  >
+                <Box display='block' width='max-content'>
+                  Order number <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
+                </Box>
+              </TableCell>
+              <TableCell  >
+              <Box display='block' width='max-content'>
+              Payment <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
+
+              </Box>
+
+              </TableCell>
+              <TableCell  ><DropDown options={[{ name: 'Order source', value: -1 }]} color='inherit' fullWidth={false} /></TableCell>
+              <TableCell >
+              <Box display='block' width='max-content'>
+              Total (USD) <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
+                
+              </Box>
+                </TableCell>
               <TableCell ><DropDown options={[{ name: 'Status', value: -1 }]} color='inherit' fullWidth={false} /></TableCell>
               <TableCell />
               <TableCell />
@@ -305,7 +323,7 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                             </Grid>
 
                             <Grid item xs={1}>
-                              <Box display='flex' flexDirection='row' justifyContent='center'>
+                              <Box display='flex' flexDirection='row' justifyContent='flex-end'>
                                 <IconButton style={{ padding: 8 }} onClick={() => setOpen((prevState) => ({ ...prevState, [idx]: false }))}>
                                   <RemoveIcon className={classes.icon} color='secondary' fontSize="large" />
                                 </IconButton>
@@ -316,22 +334,22 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                           {row.items && row.items.map((item, idx) => {
                             return (
                               <Box mx={4} my={3} key={idx}>
-                                <Grid container xs={12}>
+                                <Grid container>
 
-                                  <Grid container xs={9}>
+                                  <Grid item container xs={9}>
                                     <Grid item xs={12}>
-                                      <Box margin={1}>
+                                      <Box margin={1} ml={0}>
                                         <Typography variant="subtitle2" gutterBottom >{item.brandName}</Typography>
                                       </Box>
                                     </Grid>
                                     <Grid item xs={12}>
-                                      <Box margin={1}>
+                                      <Box margin={1} ml={0}>
                                         <Typography variant="h6" color='secondary' gutterBottom >{item.title}</Typography>
                                       </Box>
                                     </Grid>
                                     <Grid item direction='row' container xs={12}>
 
-                                      <Grid container direction='column' component='ul' className={classes.specList} xs={5}>
+                                      <Grid item container direction='column' component='ul' className={classes.specList} xs={8}>
                                         <GridList cellHeight={'auto'} cols={2}>
                                           {item.specifications.map((spec, idx) => (
                                             <Grid component='li' item xs={6} key={idx}>
@@ -348,11 +366,12 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                                           ))}
                                         </GridList>
                                       </Grid>
-
-                                      <Grid container direction='column' component='ul' className={classes.specList} xs={2}>
-                                        <Box mr={4} height={100}>
+                                      <Grid item xs={1} container>
+                                        <Box padding={0} mr={1} >
                                           <Divider orientation="vertical" />
                                         </Box>
+                                      </Grid>
+                                      <Grid item container direction='column' component='ul' className={classes.specList} xs={3}>
                                         <GridList cellHeight={'auto'} cols={1}>
 
                                           <Box display="flex" pr={1} component='li'>
@@ -376,29 +395,42 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                                           </Box>
 
                                         </GridList>
+
                                       </Grid>
                                     </Grid>
 
-                                    <Grid container xs={8} spacing={2} >
+                                    <Grid item container xs={12} spacing={2}>
+
                                       <Grid item>
-                                        <Chip label="Certificates" clickable className={classes.chip} />
+                                        <Box pt={2}>
+                                          <Chip label="Certificates" clickable className={classes.chip} />
+                                        </Box>
                                       </Grid>
                                       <Grid item>
-                                        <Chip label="SDS" clickable className={classes.chip} />
+                                        <Box pt={2}>
+                                          <Chip label="SDS" clickable className={classes.chip} />
+                                        </Box>
                                       </Grid>
                                       <Grid item>
-                                        <Chip label="Product Documents" clickable className={classes.chip} deleteIcon={<ArrowDropDownIcon />} onDelete={() => null} />
+                                        <Box pt={2}>
+                                          <Chip label="Product Documents" clickable className={classes.chip} deleteIcon={<ArrowDropDownIcon />} onDelete={() => null} />
+                                        </Box>
                                       </Grid>
                                       <Grid item>
-                                        <Chip label="Save to list" clickable className={classes.chip} deleteIcon={<ArrowDropDownIcon />} onDelete={() => null} />
+                                        <Box pt={2} >
+                                          <Chip label="Save to list" clickable className={classes.chip} deleteIcon={<ArrowDropDownIcon />} onDelete={() => null} />
+                                        </Box>
                                       </Grid>
                                       <Grid item>
-                                        <Chip label="Reorder" clickable className={classes.chip} />
+                                        <Box pt={2} >
+                                          <Chip label="Reorder" clickable className={classes.chip} />
+                                        </Box>
                                       </Grid>
+
                                     </Grid>
                                   </Grid>
 
-                                  <Grid container direction='column' xs={3} spacing={2} justify='flex-end' alignItems='flex-end'>
+                                  <Grid item container direction='column' xs={3} spacing={2} justify='flex-end' alignItems='flex-end'>
                                     <Grid item>
                                       <SecondaryButton text='Request invoice' width={200} />
                                     </Grid>
@@ -414,7 +446,7 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                                   </Grid>
 
                                   <Grid item xs={12}>
-                                    <Box my={4}>
+                                    <Box my={3}>
                                       <Divider />
                                     </Box>
                                   </Grid>
