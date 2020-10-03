@@ -8,34 +8,26 @@ import { Breadcrumb } from './components/common/BreadCrumb';
 import { MuiPickersUtilsProvider } from "@material-ui/pickers";
 import DateFnsUtils from '@date-io/date-fns';
 import { ordersHistory } from './constants';
+import "./scrollbar.css";
 
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: '#E71316',
+      main: 'rgb(231, 19, 22)',
     },
     secondary: {
-      main: '#2c97f3'
+      main: 'rgb(30, 138, 231)'
     }
   },
   typography: {
-    // fontFamily: 'Raleway, Arial',
-    fontWeightMedium: 500
-  },
-  // overrides: {
-  //   MuiInput: {
-  //     input: {
-  //       "&::placeholder": {
-  //         color: "#000",
-  //         fontWeight: 600,
-  //         fontSize: 16
-  //       },
-  //       color: "#000",
-  //       fontWeight: 500,
-  //       fontSize: 14
-  //     }
-  //   }
-  // }
+    h6: {
+      fontSize: 16,
+      fontWeight: 500
+    },
+    subtitle2: {
+      fontSize: 12
+    }
+  }
 });
 
 function App() {

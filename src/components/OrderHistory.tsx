@@ -24,7 +24,8 @@ import AddIcon from '@material-ui/icons/Add';
 import TablePaginationActions from '@material-ui/core/TablePagination/TablePaginationActions';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 import RemoveIcon from '@material-ui/icons/Remove';
-
+import { ProductDocuments } from './ProductDocuments';
+import documents from '../documents.json';
 const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
@@ -96,9 +97,8 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(12);
   const [orderOption, setOrderOption] = React.useState('xls');
-
   const [openState, setOpen] = React.useState<{ [key: number]: boolean }>({});
-  // const classes = useRowStyles();
+  const [anchorEl, setAnchorEl] = React.useState(null);
 
   const onRadioOptionChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setOrderOption((event.target as HTMLInputElement).value);
@@ -113,6 +113,21 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
     setRowsPerPage(parseInt(event.target.value, 10));
     setPage(0);
   };
+
+
+
+  const onClickProductDocBtn = (event: any) => {
+    setAnchorEl(event.currentTarget);
+  };
+
+  const handleClose = () => {
+    setAnchorEl(null);
+  };
+
+  const open = Boolean(anchorEl);
+  const id = open ? 'simple-popover' : undefined;
+
+
   const renderStatusIcon = (status: string) => {
     switch (status) {
       case 'Shipped':
@@ -222,19 +237,17 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                 </Box>
               </TableCell>
               <TableCell  >
-              <Box display='block' width='max-content'>
-              Payment <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
-
-              </Box>
+                <Box display='block' width='max-content'>
+                  Payment <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
+                </Box>
 
               </TableCell>
               <TableCell  ><DropDown options={[{ name: 'Order source', value: -1 }]} color='inherit' fullWidth={false} /></TableCell>
               <TableCell >
-              <Box display='block' width='max-content'>
-              Total (USD) <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
-                
-              </Box>
-                </TableCell>
+                <Box display='block' width='max-content'>
+                  Total (USD) <IconButton className={classes.downArrowStyle}><ArrowDropDownIcon /></IconButton>
+                </Box>
+              </TableCell>
               <TableCell ><DropDown options={[{ name: 'Status', value: -1 }]} color='inherit' fullWidth={false} /></TableCell>
               <TableCell />
               <TableCell />
@@ -302,7 +315,7 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                 <TableRow>
 
                   <TableCell style={{ padding: 0 }} colSpan={12}>
-                    <Collapse in={openState[idx]} timeout="auto" unmountOnExit>
+                    <Collapse in={idx === 1} timeout="auto" unmountOnExit>
                       <Box boxShadow={2} >
                         <Paper variant='outlined' square elevation={8} style={{ borderTop: '2px solid #636363' }} >
                           <Grid container style={{ backgroundColor: '#F7F7F7', padding: 18 }} alignItems='center' >
@@ -413,7 +426,14 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                                       </Grid>
                                       <Grid item>
                                         <Box pt={2}>
-                                          <Chip label="Product Documents" clickable className={classes.chip} deleteIcon={<ArrowDropDownIcon />} onDelete={() => null} />
+                                          <Chip
+                                            aria-describedby={id}
+                                            label="Product Documents"
+                                            clickable className={classes.chip}
+                                            deleteIcon={<ArrowDropDownIcon />}
+                                            onClick={onClickProductDocBtn}
+                                            onDelete={() => null}
+                                          />
                                         </Box>
                                       </Grid>
                                       <Grid item>
@@ -484,7 +504,13 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
           </TableFooter>
         </Table>
       </TableContainer>
-
+      <ProductDocuments
+        id={id}
+        open={open}
+        onClose={handleClose}
+        anchorEl={anchorEl}
+        documents={documents}
+      />
     </div >
   )
 }

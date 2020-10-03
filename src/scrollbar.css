@@ -1,0 +1,21 @@
+.scrollbar {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-right: 12px;
+}
+
+.scrollbar-primary {
+    scrollbar-color: #4285f4 #f5f5f5;
+}
+
+.scrollbar-primary::-webkit-scrollbar {
+    width: 5px;
+    background-color: #F5F5F5;
+}
+
+.scrollbar-primary::-webkit-scrollbar-thumb {
+    background-color: rgb(84, 84, 92);
+    border-radius: 3px;
+    height: 180px;
+    width: 5px;
+}

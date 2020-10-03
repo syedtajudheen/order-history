@@ -1,0 +1,2497 @@
+{
+    "actionStatus": "SUCCESS",
+    "docTypes": "COA,SDS,Manuals,Protocols,LULL,Brochures,Probes Structure,Vectors,CellLines,Posters,Unitrays,MediaFormulation,TechBulletins,Probes Spectra,Probes Handbook,SupportFiles",
+    "documentTypes": {
+        "Material Safety Data Sheets": "4",
+        "Product Literature": "2",
+        "Manuals & Protocols": "1",
+        "Media Formulations": "1",
+        "Certificates": "118"
+    },
+    "sumOfAllDocuments": "126",
+    "totalResults": "127",
+    "limit": "250",
+    "searchResults": {
+        "manualList": [{
+            "cardType": "MC",
+            "label": "Manual / Product Insert",
+            "persona": "DocSupport",
+            "title": "Quick Reference: NuPAGE Bis-Tris Mini Gels",
+            "titleUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/manuals/MAN0007891_NuPAGE_BisTris_MiniGels.pdf",
+            "versionNumber": "C.0",
+            "path": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/manuals/MAN0007891_NuPAGE_BisTris_MiniGels.pdf",
+            "internalUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/manuals/MAN0007891_NuPAGE_BisTris_MiniGels.pdf",
+            "resourceGroup": "",
+            "skuMap": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                },
+                {
+                    "text": "NP000102",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP000102"
+                },
+                {
+                    "text": "NP0002",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0002"
+                },
+                {
+                    "text": "NP000202",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP000202"
+                },
+                {
+                    "text": "NP0004",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0004"
+                },
+                {
+                    "text": "NP0005",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0005"
+                },
+                {
+                    "text": "NP0007",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0007"
+                },
+                {
+                    "text": "NP0008",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0008"
+                },
+                {
+                    "text": "NP0009",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0009"
+                },
+                {
+                    "text": "NP0050",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0050"
+                },
+                {
+                    "text": "NP0060",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0060"
+                },
+                {
+                    "text": "NP0301BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0301BOX"
+                },
+                {
+                    "text": "NP0301PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0301PK2"
+                },
+                {
+                    "text": "NP0302BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0302BOX"
+                },
+                {
+                    "text": "NP0302PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0302PK2"
+                },
+                {
+                    "text": "NP0303BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0303BOX"
+                },
+                {
+                    "text": "NP0304BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0304BOX"
+                },
+                {
+                    "text": "NP0306BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0306BOX"
+                },
+                {
+                    "text": "NP0307BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0307BOX"
+                },
+                {
+                    "text": "NP0315BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0315BOX"
+                },
+                {
+                    "text": "NP0316BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0316BOX"
+                },
+                {
+                    "text": "NP0321PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0321PK2"
+                },
+                {
+                    "text": "NP0322PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0322PK2"
+                },
+                {
+                    "text": "NP0323BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0323BOX"
+                },
+                {
+                    "text": "NP0323PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0323PK2"
+                },
+                {
+                    "text": "NP0324BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0324BOX"
+                },
+                {
+                    "text": "NP0326BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0326BOX"
+                },
+                {
+                    "text": "NP0327BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0327BOX"
+                },
+                {
+                    "text": "NP0329BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0329BOX"
+                },
+                {
+                    "text": "NP0329PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0329PK2"
+                },
+                {
+                    "text": "NP0330BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0330BOX"
+                },
+                {
+                    "text": "NP0335BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0335BOX"
+                },
+                {
+                    "text": "NP0335PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0335PK2"
+                },
+                {
+                    "text": "NP0336BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0336BOX"
+                },
+                {
+                    "text": "NP0336PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0336PK2"
+                },
+                {
+                    "text": "NP0341BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0341BOX"
+                },
+                {
+                    "text": "NP0341PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0341PK2"
+                },
+                {
+                    "text": "NP0342BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0342BOX"
+                },
+                {
+                    "text": "NP0342PK2",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0342PK2"
+                },
+                {
+                    "text": "NP0343BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0343BOX"
+                },
+                {
+                    "text": "NP0344BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0344BOX"
+                },
+                {
+                    "text": "NP0346BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0346BOX"
+                },
+                {
+                    "text": "NP0349BOX",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0349BOX"
+                },
+                {
+                    "text": "NP0317BOX(Discontinued)",
+                    "url": ""
+                },
+                {
+                    "text": "NP0337BOX(Discontinued)",
+                    "url": ""
+                },
+                {
+                    "text": "NP0310BOX",
+                    "url": ""
+                },
+                {
+                    "text": "NP0321-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0321BOX",
+                    "url": ""
+                },
+                {
+                    "text": "NP0321CAMP-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0322-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0322CAMP-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0322CAMP1-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0322CAMP2-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0323CAMP-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0335-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0335CAMP-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0336-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0336CAMP-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0342-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NP0342CAMP1-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NPTB001-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NPTB002-LSG",
+                    "url": ""
+                },
+                {
+                    "text": "NPTB003-LSG",
+                    "url": ""
+                }
+            ],
+            "inactiveCatalogNos": [],
+            "docEvoId": "",
+            "documentId": "6c89e4c958ef3f31d702a5080bef098d38ad3fa5",
+            "publishedDate": "",
+            "fileSize": "749.5 kB"
+        }],
+        "msdsList": [{
+                "cardType": "SDS",
+                "label": "SDS",
+                "persona": "DocSupport",
+                "title": "A42360LT",
+                "skuList": [{
+                        "text": "MPK5000S",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/MPK5000S"
+                    },
+                    {
+                        "text": "NP0001",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                    },
+                    {
+                        "text": "NP000102",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP000102"
+                    },
+                    {
+                        "text": "NP0050",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0050"
+                    },
+                    {
+                        "text": "A42360LT",
+                        "url": ""
+                    },
+                    {
+                        "text": "BN1004SP",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0011",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0012",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0021",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0022",
+                        "url": ""
+                    },
+                    {
+                        "text": "HISTKIT2",
+                        "url": ""
+                    },
+                    {
+                        "text": "NPSTARTER",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP4",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP6",
+                        "url": ""
+                    }
+                ],
+                "sku": "A42360LT",
+                "resourceGroup": null,
+                "internalURL": "134b167c88f62edcf910ccbfcb8e25ae88aa1bbf SDS",
+                "data": "134b167c88f62edcf910ccbfcb8e25ae88aa1bbf sds",
+                "documentId": "134b167c88f62edcf910ccbfcb8e25ae88aa1bbf",
+                "publishedDate": "",
+                "fileSize": "236 kB",
+                "inactiveCatalogNos": []
+            },
+            {
+                "cardType": "SDS",
+                "label": "SDS",
+                "persona": "DocSupport",
+                "title": "NP0001",
+                "skuList": [{
+                        "text": "MPK5000S",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/MPK5000S"
+                    },
+                    {
+                        "text": "NP0001",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                    },
+                    {
+                        "text": "NP000102",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP000102"
+                    },
+                    {
+                        "text": "NP0050",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0050"
+                    },
+                    {
+                        "text": "BN1004SP",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0011",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0012",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0021",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0022",
+                        "url": ""
+                    },
+                    {
+                        "text": "HISTKIT2",
+                        "url": ""
+                    },
+                    {
+                        "text": "NPSTARTER",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP4",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP6",
+                        "url": ""
+                    }
+                ],
+                "sku": "BN1004SP",
+                "resourceGroup": null,
+                "internalURL": "24a9e927c592aaee05e5739915cb73ffb5afe8d3 SDS",
+                "data": "24a9e927c592aaee05e5739915cb73ffb5afe8d3 sds",
+                "documentId": "24a9e927c592aaee05e5739915cb73ffb5afe8d3",
+                "publishedDate": "",
+                "fileSize": "337.8 kB",
+                "inactiveCatalogNos": []
+            },
+            {
+                "cardType": "SDS",
+                "label": "SDS",
+                "persona": "DocSupport",
+                "title": "NuPAGE® MOPS SDS Running Buffer (for Bis-Tris Gels only) (20X)",
+                "skuList": [{
+                        "text": "MPK5000S",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/MPK5000S"
+                    },
+                    {
+                        "text": "NP0001",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                    },
+                    {
+                        "text": "HISTKIT2",
+                        "url": ""
+                    },
+                    {
+                        "text": "NPSTARTER",
+                        "url": ""
+                    }
+                ],
+                "sku": "HISTKIT2",
+                "resourceGroup": null,
+                "internalURL": "80530b07fa72d702553db7e6e1378daca51c7eca SDS",
+                "data": "80530b07fa72d702553db7e6e1378daca51c7eca sds",
+                "documentId": "80530b07fa72d702553db7e6e1378daca51c7eca",
+                "publishedDate": "",
+                "fileSize": "29.5 kB",
+                "inactiveCatalogNos": []
+            },
+            {
+                "cardType": "SDS",
+                "label": "SDS",
+                "persona": "DocSupport",
+                "title": "test-2",
+                "skuList": [{
+                        "text": "EC6625A",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6625A"
+                    },
+                    {
+                        "text": "EC6625B",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6625B"
+                    },
+                    {
+                        "text": "EC6625C",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6625C"
+                    },
+                    {
+                        "text": "EC6675A",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6675A"
+                    },
+                    {
+                        "text": "EC6675B",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6675B"
+                    },
+                    {
+                        "text": "EC6695A",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6695A"
+                    },
+                    {
+                        "text": "EC6695B",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6695B"
+                    },
+                    {
+                        "text": "EC6695C",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/EC6695C"
+                    },
+                    {
+                        "text": "MPK5000S",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/MPK5000S"
+                    },
+                    {
+                        "text": "NP0001",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                    },
+                    {
+                        "text": "NP000102",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP000102"
+                    },
+                    {
+                        "text": "NP0009",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0009"
+                    },
+                    {
+                        "text": "NP0050",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0050"
+                    },
+                    {
+                        "text": "BN1004SP",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0011",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0012",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0021",
+                        "url": ""
+                    },
+                    {
+                        "text": "ELP0022",
+                        "url": ""
+                    },
+                    {
+                        "text": "HISTKIT2",
+                        "url": ""
+                    },
+                    {
+                        "text": "NPSTARTER",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP4",
+                        "url": ""
+                    },
+                    {
+                        "text": "PESAMP6",
+                        "url": ""
+                    },
+                    {
+                        "text": "ZBPK101",
+                        "url": ""
+                    }
+                ],
+                "sku": "BN1004SP",
+                "resourceGroup": null,
+                "internalURL": "86f2fd8830f123b380c4068dcb6248dc000d0c62 SDS",
+                "data": "86f2fd8830f123b380c4068dcb6248dc000d0c62 sds",
+                "documentId": "86f2fd8830f123b380c4068dcb6248dc000d0c62",
+                "publishedDate": "",
+                "fileSize": "49.7 kB",
+                "inactiveCatalogNos": []
+            }
+        ],
+        "coaList": [{
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1143390",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1143390_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "04ba3663995bc3cccca97e28ece395d32cf6bf61",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1161061",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1161061_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2a0ef5f6016e7a41cee4e1bafb2f47252709192f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1171911",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1171911_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "3d23e42e2373c7cb82baa796988bd90438638a25",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1179501",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1179501_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2741db37fe7ce5a0cdb1e97b1c0f67fe84730be3",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1179506",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1179506_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "4840e2f34a9c35182427a2455f9a613c5390ccea",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1179540",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1179540_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "10ce317546ab708f7227534076738802cf6ddeb0",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1179544",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1179544_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1f1a42e2780ab2163b3b7a934b0b5b93ee4a50cd",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1229795",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1229795_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "605c7c823d25d63bd92c8d6fcaf73c011bf71c9e",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "123",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/123_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "eea55872e98b21045527b524c5ed90a478405753",
+                "publishedDate": "",
+                "fileSize": "47.8 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1234",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1234_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "70aa5414dfec46dcb8b09e13449dc5f7c6da9d46",
+                "publishedDate": "",
+                "fileSize": "47.8 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1240363",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1240363_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2b8cb448ed442746124ebb268a5cabe66ca3d078",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1257781",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1257781_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f4e6443eb54da20186614412922a525e6dcae7fe",
+                "publishedDate": "",
+                "fileSize": "32.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1266090",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1266090_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "d4884f1e1d88af1ba268d0291be3d698c8f60a29",
+                "publishedDate": "",
+                "fileSize": "32.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1266134",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1266134_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "19f72c381e8c9ec71176028accf9739a1db8dd30",
+                "publishedDate": "",
+                "fileSize": "32.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1295069",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1295069_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "040ea4f36a45f988349e64527fbc62b990a3538e",
+                "publishedDate": "",
+                "fileSize": "32.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1307417",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1307417_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "ee5d9d1b39f3b97011ecb08d42acdf138017a0ce",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1308783",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1308783_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "043b95c6f9cbd900eae56e4300b3f81bda7e762f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1351360",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1351360_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "d7f591aba20e82a5ac4ecd7f3508a54e2529c8a2",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1368630",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1368630_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "0d9f9ab90f64b7c68c306f76d4fca80830448889",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1368637",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1368637_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "accaf47c0a874c0493fd9d63b60efbf83c031435",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1373488",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1373488_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "689bf38fda0016ad60756cb296e7a1cffb343847",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1373489",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1373489_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2f59c9a522ecd0b284be9f3b96821ee9c8edfc15",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405154",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405154_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "20c67286808896222bbe35d78f2b1c2a5271cfee",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405155",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405155_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1a76313ea30849b605d1253b72222267c252509a",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405156",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405156_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "6569e6988e4d020382ee294aba272a629242a72f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405157",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405157_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "943a71efb2264698508151d7700ce369606c2cf2",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405158",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405158_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2ca2ec610d2861b081711ad4245abf82406f4463",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405159",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405159_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "cfff0fd421dcc430b501886d652520b83f891002",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405160",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405160_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "43f656426da4b76a5aae2d95783642bfafc9aba0",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405161",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405161_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "124c7620cb26d387835022eb3a4dba93192a223e",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405162",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405162_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "c49862d37da7c5fda8aa3e3715bcc5b93ef08fe1",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1405199",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1405199_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "4075d863e96e1952e0769ca2a2b904e5b7324ab0",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537446",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537446_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "dc65b8be6833f92d08d711a32f099531dc5ebb77",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537447",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537447_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "7f65d04daab919a5ac2a4dfde3267ce84390254f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537448",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537448_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9f1e7154b99182ee6a986b917b6c6ef7aa8445d0",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537449",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537449_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1b85e3a0d23f09862eebc036d55640a2b0a2656e",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537450",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537450_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "6941f471135b4335be39a338ce57ef97bd71cb6b",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537451",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1537451_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5db7e2bbfe017b6e2a679a457a07aec7887a6863",
+                "publishedDate": "",
+                "fileSize": "33.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537452",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1537452_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "8dc13b43fd21ed3687c27921c3666c1926c3739f",
+                "publishedDate": "",
+                "fileSize": "33.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537454",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1537454_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "0a94abde703c3cd2a064083bb5defb62d7e4cc7b",
+                "publishedDate": "",
+                "fileSize": "33.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537476",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537476_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "38f3ee5bd99de9aa343fa819e9d31dda23f006eb",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537477",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537477_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "8258d5173cd9bf98c980a0c33458193146a21e3a",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1537478",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1537478_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1762bcdfdf6405e5cc8e83380503331beca9a761",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1658508",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1658508_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "a88fb2460b8a74da1e984173c4df21ce954da644",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1658554",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1658554_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "31526de5c203ec523bb5e2c665f1ce22fdd4c191",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1658600",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1658600_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "8f7f916052a6d4d687f9fc504b573922721552c0",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1658658",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1658658_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "21a0c85ea0dde0f175dfaf9ce84eb11aeb89d55c",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674290",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674290_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9808cea2eb20d41b46a47026634328690aac85b7",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674293",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674293_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "bbd7b5a017e6410729a178cdb4b994a14aeeb968",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674297",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674297_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "c5a38de1d0d74faf1dde8869e79ed22612aa54fa",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674301",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674301_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9f73b94dd6f4c2d9ce1ca2dfa18c3c9547241e0c",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674304",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674304_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2b78e0e2e708475b852a6f739aa94a00fc0ed707",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674309",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674309_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5f5794322da42950a4d61d26f2066f3ccd8d4716",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674312",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674312_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2d77bdfbe3c70be72f852e05af16bf99c1dd1d80",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674318",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674318_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "891c45051e8428deb6c33a7efd60728b50b9541c",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1674321",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1674321_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "46821cfb831e219433091d23007e293a984ed655",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1744496",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1744496_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "e19e526b8a1360d58a920e9913129448127a211e",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1770674",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1770674_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "50cc38a4f5718ed34d285b7ec0015e149078770d",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771463",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771463_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "721586c37d80423951477dc755ceb25dd2d14e35",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771477",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771477_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f12533dd21cb80c18f7fd3dd24641bfc22f05572",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771490",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771490_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "18f742602340cab88ae19c1344fc955e9a40f58f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771512",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771512_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "8c04c9eb3a21e580d3522461b24f5b68dc1ba275",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771546",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771546_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9f8ff597e35a2775f0f8aa3fffdff98d20bbc246",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771567",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771567_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9024a2b54625c793e40e663a3f5c5fd8602ae66f",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771577",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771577_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9fc1c3164c93ab9089210fafe58607498120278c",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771583",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771583_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "33704e5ea8ce59ac76dda61abd85aa437f4a7bd3",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771607",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771607_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "99c54288445c6f434cf98a485c02729be137756c",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771624",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771624_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f16cadb39094ff81cee8d029fa83f89fc0aaf5b6",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1771642",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1771642_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "c953a053ad80d18ef4d375f0066d31e0268a6587",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1821857",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates of Analysis/1821857_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "fa9e48eea23ab154ba3cf6edc07803b334132296",
+                "publishedDate": "",
+                "fileSize": ""
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1862491",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1862491_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5197ad6dcb825418978c959b22a8b13dc31e7930",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1875926",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1875926_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "618ee7c63e406435c2cd0f548a8b873eb73b8597",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1878553",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1878553_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "bf7be3f18b8b95cc5a64a65ae0a3b01dd3713ed1",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1880118",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1880118_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "8d276ac3cf437c0f85ed3f9548b4e5be707379a2",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1881690",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1881690_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "e64fc344c6433a4c584cb070a0311e2efb854a9e",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1883636",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/OTMM/certificate/Certificates-of-Analysis/1883636_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5227a96c86c2ae6c965e8d5e8e8e551e9eebc011",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1887194",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1887194_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "fc87abc94a6ea17d9f51245866f8ba99a6c85167",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1904556",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1904556_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "0228876b778d026d6ae74f08c8054bdd1c403c89",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1908733",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1908733_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1b0eeb42abf874cac366d720c58cb4bab55243e2",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1927981",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1927981_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "fa51d1a0a5671ff484e3a7af2ab4e1ea61bfa806",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1935953",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1935953_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "0da1b44ca80913ccb7914acd2e118b9db469310d",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1935954",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1935954_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f6b4d281aa871e312d0eda309bd28012e6e3f125",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1935955",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1935955_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f7739111c2961fd131be42e2f24bfb36f0a070a1",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1952393",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1952393_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "65d8bd60060320f2c063bd36b51944232497d88a",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1952395",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1952395_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1bbd8f3f3cc0cdd02c93f64886636444450c79dc",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1958828",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1958828_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "b74b6d1caa20b36de27eea729299552f0cb2bd3b",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1981884",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1981884_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "fdbc527a187d087d00dada184c99479e3fbf4033",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1986805",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1986805_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "a3bcacb93d18af7ff6d29b9c4e84cf5321193396",
+                "publishedDate": "",
+                "fileSize": "28.4 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "1998209",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/1998209_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "750ef0bcfca1b127da950d694df84d0bf0bf06d6",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2013447",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/BID/certificate/Certificates-of-Analysis/2013447_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "e22d0249b7d76af067d3c5e94d88be9d5642c0a5",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2013451",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2013451_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2842e0f1cd7094c46f5a6e51a220315ecf999556",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2035739",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2035739_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "b6aee4ecbad61ab1d2223fe4d7a384dcae0abc31",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2035740",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2035740_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "16223f530e4915823c1666f1b3f8b30e7d7a2493",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2054305",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2054305_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "b58b1e5c8bcfbe8f0dbe503554e96f74dcd76bc9",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2062899",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2062899_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2136da2a0d37517c775744b8f56b78f72256665c",
+                "publishedDate": "",
+                "fileSize": "48.8 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2062901",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2062901_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5c06b4207c400d4ff8e0b88d47265060309eb513",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2062902",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2062902_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "7fb650b4af15d7127e1f3e9042c2da49749bcf89",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2080984",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2080984_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "7e06d879c64d6765c079a376504a466386fa7d50",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2080985",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2080985_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "3a8bbff1f5edce55e1896fe98b43f0f7badedc12",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2109869",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2109869_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "c0b0738770eae3e0891f3885b62a2324890dcb36",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2119973",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2119973_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "6ac44a6c8e55db5324c73d3577749ef1a3365afb",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2136264",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2136264_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "258462e551c057f9c9769d1c7fffa2394dba0a7f",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2143128",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2143128_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "aef5c94b0bf2b64f77783a7045cca67b26a011af",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2148422",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2148422_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9f7c1090ed9728fbb6a3519224c69befe8e2efdf",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2160456",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2160456_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "ebd54a5008fb5d009f6429f7adf3b4ed7c0956ad",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2160459",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2160459_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "a624ede15ae9426aa2fff89acf4982cfef95b875",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "2164456",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/2164456_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "612972a7bc9345570100da1b0450f7be998763cc",
+                "publishedDate": "",
+                "fileSize": "48.9 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "913358",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/913358_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "cca751b6e1f256d452a94f4d74e4b098db1612eb",
+                "publishedDate": "",
+                "fileSize": "28.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "988423",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/988423_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "389c52a5bbc257e6a86071fbe3f12f662e8a9c6d",
+                "publishedDate": "",
+                "fileSize": "28.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "9999999",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/LSG/certificate/Certificates-of-Analysis/9999999_NP0001.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "5f0cb299eaf14dd7fcf6aabdb9f90efcb37480f6",
+                "publishedDate": "",
+                "fileSize": "28.3 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0520003",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/U63/COA/U63_COA_NP0001_LT0520003.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "2e7dddba-a827-4294-aabc-c69f4ee99166",
+                "publishedDate": "",
+                "fileSize": "19.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0520003",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/AJH/COA/AJH_COA_NP0001_LT0520003.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "9447a4d7-35e8-4c9f-b38b-fdb2c9859760",
+                "publishedDate": "",
+                "fileSize": "19.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0520006",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/U63/COA/U63_COA_NP0001_LT0520006.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1c4b8f9e-c683-4ee8-bc40-fa511ff03cfb",
+                "publishedDate": "",
+                "fileSize": "27 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0520006",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/AJH/COA/AJH_COA_NP0001_LT0520006.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "81ebd5f9-8c15-434e-b09a-cead93e48f4e",
+                "publishedDate": "",
+                "fileSize": "27 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0565677",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/U63/COA/U63_COA_NP0001_LT0565677.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "1b26f132-a6d8-4eed-be81-8d6729b96a0e",
+                "publishedDate": "",
+                "fileSize": "19.8 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "LT0565677",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/AJH/COA/AJH_COA_NP0001_LT0565677.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f82bf2fe-c485-431e-85e4-9b2bf2a146bc",
+                "publishedDate": "",
+                "fileSize": "19.8 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "SJR1232",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/AJH/COA/AJH_COA_NP0001_SJR1232.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "31e07f98-6d3c-4ecb-af3d-0d9005612ffa",
+                "publishedDate": "",
+                "fileSize": "13.7 kB"
+            },
+            {
+                "cardType": "COA",
+                "label": "Certificates",
+                "persona": "DocSupport",
+                "skuList": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "resourceGroup": "",
+                "lotNo": "SJR1232",
+                "lotNoUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/certificate/U63/COA/U63_COA_NP0001_SJR1232.pdf",
+                "inactiveCatalogNos": [],
+                "documentId": "f84b6cee-b8cd-4b0a-a8db-0d33628f6d8c",
+                "publishedDate": "",
+                "fileSize": "13.7 kB"
+            }
+        ],
+        "brochureList": [{
+                "title": "Brochure: Nunc Cell Factory system aseptic filling made easy",
+                "downloadUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/BPD/brochures/cell-factory-aseptic-filling-brochure.pdf",
+                "versionNumber": "2",
+                "cardType": "PLC",
+                "persona": "DocSupport",
+                "catalogNos": [{
+                        "text": "4652030",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/4652030"
+                    },
+                    {
+                        "text": "NP0001",
+                        "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                    },
+                    {
+                        "text": "NP0001-02-TS",
+                        "url": ""
+                    }
+                ],
+                "label": "Product Literature",
+                "inactiveCatalogNos": [],
+                "documentId": "bbff5d67d156bbadb69e0753bce3056d5fb1b6ab",
+                "publishedDate": "",
+                "fileSize": "3.2 MB"
+            },
+            {
+                "title": "isu-Butyl",
+                "downloadUrl": "https://assets.qa2.thermofisher.com/TFS-Assets/GC/Specification-Sheets/Q25705.pdf",
+                "versionNumber": "",
+                "cardType": "PLC",
+                "persona": "DocSupport",
+                "catalogNos": [{
+                    "text": "NP0001",
+                    "url": "//www.qa.thermofisher.com/order/catalog/product/NP0001"
+                }],
+                "label": "Product Literature",
+                "inactiveCatalogNos": [],
+                "documentId": "ba971e122a446bff7f0e2089b95bf35c814e01ce",
+                "publishedDate": "",
+                "fileSize": "17.6 kB"
+            }
+        ],
+        "skuDetails": {
+            "skuTitle": "NuPAGE&trade; MOPS SDS Running Buffer (20X)",
+            "cleanSku": "NP0001"
+        }
+    }
+}
