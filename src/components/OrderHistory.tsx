@@ -315,7 +315,7 @@ export const OrderHistory: React.FunctionComponent<OrderHistoryProps> = ({ order
                 <TableRow>
 
                   <TableCell style={{ padding: 0 }} colSpan={12}>
-                    <Collapse in={idx === 1} timeout="auto" unmountOnExit>
+                    <Collapse in={openState[idx]} timeout="auto" unmountOnExit>
                       <Box boxShadow={2} >
                         <Paper variant='outlined' square elevation={8} style={{ borderTop: '2px solid #636363' }} >
                           <Grid container style={{ backgroundColor: '#F7F7F7', padding: 18 }} alignItems='center' >
